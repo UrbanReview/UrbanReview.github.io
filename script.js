@@ -44,5 +44,12 @@ document.addEventListener("DOMContentLoaded", function () {
     createCards('cardContainerNike', 'nike.json');
 
     // Llamar a la función para las tarjetas de Jordan
-    createCards('cardContainerJordan', 'jordan.json');
+    createCards('cardContainerJordan1', 'jordan1.json');
+
+    createCards('cardContainerJordan3', 'jordan3.json');
+
+    createCards('cardContainerJordan4', 'jordan4.json');
+
+    createCards('cardContainerJordan5', 'jordan5.json');
+
 });
