@@ -3,30 +3,35 @@
         "nombre": "Travis Scott x Air Jordan 1 Low OG “Canary”",
         "talla": "36-47.5",
         "precio": "***€",
-        "imagenURL": "Productos/22.jpg"
+        "imagenURL": "Productos/22.jpg",
+        "url":"#"
     },
     {
         "nombre": "AIR JORDAN 1 RETRO HIGH OG NRG AJ1",
         "talla": "36-47.5",
         "precio": "***€",
-        "imagenURL": "Productos/23.jpg"
+        "imagenURL": "Productos/23.jpg",
+        "url":"#"
     },
     {
         "nombre": "OFF-WHITE x Travis Scott xLV *Air Jordan 1 OW ",
         "talla": "36-46",
         "precio": "***€",
-        "imagenURL": "Productos/24.jpg"
+        "imagenURL": "Productos/24.jpg",
+        "url":"#"
     },
     {
         "nombre": " Air Jordan 1 Low",
         "talla": "36-46",
         "precio": "***€",
-        "imagenURL": "Productos/25.jpg"
+        "imagenURL": "Productos/25.jpg",
+        "url":"#"
     },
     {
         "nombre": "OFF-WHITE x Travis Scott xLV *Air Jordan 1 OW",
         "talla": "36-46",
         "precio": "***€",
-        "imagenURL": "Productos/26.jpg"
+        "imagenURL": "Productos/26.jpg",
+        "url":"#"
     }
 ]

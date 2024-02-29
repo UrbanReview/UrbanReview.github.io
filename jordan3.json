@@ -3,84 +3,98 @@
         "nombre": "Air Jordan 3 Retro Black Cement",
         "talla": "36-46",
         "precio": "***€",
-        "imagenURL": "Productos/27.jpg"
+        "imagenURL": "Productos/27.jpg",
+        "url":"#"
     },
     {
         "nombre": "Air Jordan 3 “Green Glow”",
         "talla": "36-46",
         "precio": "***€",
-        "imagenURL": "Productos/28.jpg"
+        "imagenURL": "Productos/28.jpg",
+        "url":"#"
     },
     {
         "nombre": "AIR JORDAN 3 RETRO 'NEAPOLITAN'",
         "talla": "36-48.5",
         "precio": "***€",
-        "imagenURL": "Productos/29.jpg"
+        "imagenURL": "Productos/29.jpg",
+        "url":"#"
     },
     {
         "nombre": "Air Jordan 3 AJ3 x fragment",
         "talla": "36-48.5",
         "precio": "***€",
-        "imagenURL": "Productos/30.jpg"
+        "imagenURL": "Productos/30.jpg",
+        "url":"#"
     },
     {
         "nombre": "Air Jordan 3 Craft “Ivory”",
         "talla": "36-47.5",
         "precio": "***€",
-        "imagenURL": "Productos/31.jpg"
+        "imagenURL": "Productos/31.jpg",
+        "url":"#"
     },
     {
         "nombre": "Air Jordan 3 “Green Glow”",
         "talla": "36-46",
         "precio": "***€",
-        "imagenURL": "Productos/32.jpg"
+        "imagenURL": "Productos/32.jpg",
+        "url":"#"
     },
     {
         "nombre": "Air Jordan 3 “Midnight Navy”",
         "talla": "36-47.5",
         "precio": "***€",
-        "imagenURL": "Productos/33.jpg"
+        "imagenURL": "Productos/33.jpg",
+        "url":"#"
     },
     {
         "nombre": "Air Jordan 3",
         "talla": "36-46",
         "precio": "***€",
-        "imagenURL": "Productos/34.jpg"
+        "imagenURL": "Productos/34.jpg",
+        "url":"#"
     },
     {
         "nombre": "Travis Scott x Air Jordan 3 “Palomino”",
         "talla": "36-47.5",
         "precio": "***€",
-        "imagenURL": "Productos/35.jpg"
+        "imagenURL": "Productos/35.jpg",
+        "url":"#"
     },
     {
         "nombre": "Air Jordan 3 “Midnight Navy”",
         "talla": "36-48.5",
         "precio": "***€",
-        "imagenURL": "Productos/36.jpg"
+        "imagenURL": "Productos/36.jpg",
+        "url":"#"
     },
     {
         "nombre": "Air Jordan 3 WMNS “Off Noir”",
         "talla": "36-47",
         "precio": "***€",
-        "imagenURL": "Productos/37.jpg"
+        "imagenURL": "Productos/37.jpg",
+        "url":"#"
     },
     {
         "nombre": "Air Jordan 3 “Fear”",
         "talla": "36-48.5",
         "precio": "***€",
-        "imagenURL": "Productos/38.jpg"
+        "imagenURL": "Productos/38.jpg",
+        "url":"#"
     },
     {
         "nombre": "Air Jordan 3 x A Ma Maniere AJ3",
         "talla": "36-47.5",
         "precio": "***€",
-        "imagenURL": "Productos/39.jpg"
+        "imagenURL": "Productos/39.jpg",
+        "url":"#"
     },
     {
         "nombre": "Air Jordan 3",
         "talla": "36-46",
         "precio": "***€",
-        "imagenURL": "Productos/40.jpg"
+        "imagenURL": "Productos/40.jpg",
+        "url":"#"
     }
 ]

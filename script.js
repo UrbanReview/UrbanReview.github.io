@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
                     // Crear HTML interno
                     card.innerHTML = `
-                        <a href="#">
+                        <a href="${cardData.url}">
                             <div class="IM" id="IM1"></div>
                             <div class="I">
                                 <h4>${cardData.nombre}</h4>

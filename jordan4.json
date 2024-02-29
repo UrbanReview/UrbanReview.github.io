@@ -3,60 +3,70 @@
         "nombre": "AIR JORDAN 4 RETRO 'FEAR'",
         "talla": "36-48",
         "precio": "***€",
-        "imagenURL": "Productos/41.jpg"
+        "imagenURL": "Productos/41.jpg",
+        "url":"#"
     },
     {
         "nombre": " Air Jordan 4 ",
         "talla": "36-47.5",
         "precio": "***€",
-        "imagenURL": "Productos/42.jpg"
+        "imagenURL": "Productos/42.jpg",
+        "url":"#"
     },
     {
         "nombre": "Air Jordan 4 “Military Blue”",
         "talla": "36-46",
         "precio": "***€",
-        "imagenURL": "Productos/43.jpg"
+        "imagenURL": "Productos/43.jpg",
+        "url":"#"
     },
     {
         "nombre": "Air Jordan 4 “Bred Reimagined”",
         "talla": "36-46",
         "precio": "***€",
-        "imagenURL": "Productos/45.jpg"
+        "imagenURL": "Productos/45.jpg",
+        "url":"#"
     },
     {
         "nombre": "Air Jordan 4",
         "talla": "36-46",
         "precio": "***€",
-        "imagenURL": "Productos/46.jpg"
+        "imagenURL": "Productos/46.jpg",
+        "url":"#"
     },
     {
         "nombre": "Air Jordan 4 “Oxidized Green”",
         "talla": "36-46",
         "precio": "***€",
-        "imagenURL": "Productos/47.jpg"
+        "imagenURL": "Productos/47.jpg",
+        "url":"#"
     },
     {
         "nombre": "Air Jordan 4",
         "talla": "36-46",
         "precio": "***€",
-        "imagenURL": "Productos/48.jpg"
+        "imagenURL": "Productos/48.jpg",
+        "url":"#"
     },
     {
         "nombre": "Jordan 4 Blanco Azul",
         "talla": "36-46",
         "precio": "***€",
-        "imagenURL": "Productos/49.jpg"
+        "imagenURL": "Productos/49.jpg",
+        "url":"#"
     },
     {
         "nombre": "AIR JORDAN 4 RETRO 'WHITE THUNDER'",
         "talla": "40-48.5",
         "precio": "***€",
-        "imagenURL": "Productos/50.jpg"
+        "imagenURL": "Productos/50.jpg",
+        "url":"#"
     },
     {
         "nombre": "Air Jordan 4 “White Oreo”",
         "talla": "36-46",
         "precio": "***€",
-        "imagenURL": "Productos/51.jpg"
+        "imagenURL": "Productos/51.jpg",
+        "url":"#"
     }
 ]

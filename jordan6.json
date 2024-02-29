@@ -3,48 +3,56 @@
         "nombre": "Air Jordan 6 “Reverse Oreo”",
         "talla": "36-47",
         "precio": "***€",
-        "imagenURL": "Productos/58.jpg"
+        "imagenURL": "Productos/58.jpg",
+        "url":"#"
     },
     {
         "nombre": "Air Jordan 6 WMNS Gore-Tex “Brown Kelp”",
         "talla": "36-47",
         "precio": "***€",
-        "imagenURL": "Productos/59.jpg"
+        "imagenURL": "Productos/59.jpg",
+        "url":"#"
     },
     {
         "nombre": "Air Jordan 6",
         "talla": "36-47",
         "precio": "***€",
-        "imagenURL": "Productos/60.jpg"
+        "imagenURL": "Productos/60.jpg",
+        "url":"#"
     },
     {
         "nombre": "Air Jordan 6 “Yellow Ochre”",
         "talla": "36-47",
         "precio": "***€",
-        "imagenURL": "Productos/61.jpg"
+        "imagenURL": "Productos/61.jpg",
+        "url":"#"
     },
     {
         "nombre": "Air Jordan 6 “Reverse Oreo”",
         "talla": "36-47",
         "precio": "***€",
-        "imagenURL": "Productos/62.jpg"
+        "imagenURL": "Productos/62.jpg",
+        "url":"#"
     },
     {
         "nombre": "Air Jordan 6",
         "talla": "40-47.5",
         "precio": "***€",
-        "imagenURL": "Productos/63.jpg"
+        "imagenURL": "Productos/63.jpg",
+        "url":"#"
     },
     {
         "nombre": "Air Jordan 6 “Aqua”",
         "talla": "36-47",
         "precio": "***€",
-        "imagenURL": "Productos/64.jpg"
+        "imagenURL": "Productos/64.jpg",
+        "url":"#"
     },
     {
         "nombre": "Air Jordan 6 “Metallic Silver”",
         "talla": "36-47",
         "precio": "***€",
-        "imagenURL": "Productos/65.jpg"
+        "imagenURL": "Productos/65.jpg",
+        "url":"#"
     }
 ]
