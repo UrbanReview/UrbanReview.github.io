@@ -52,4 +52,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
     createCards('cardContainerJordan5', 'jordan5.json');
 
+    createCards('cardContainerJordan6', 'jordan6.json');
+
 });
