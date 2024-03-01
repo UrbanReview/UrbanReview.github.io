@@ -106,3 +106,17 @@
     height: 32px;
     /* Cambia la altura del icono del footer */
 }
+
+.EP {
+    margin-top: 175px;
+}
+
+.E {
+    height: 85px;
+}
+
+.ESE {
+    text-decoration: none; /* Elimina el subrayado */
+      color: inherit; /* Utiliza el color del texto heredado */
+      /* cursor: auto;*//*Cambia el cursor a su valor por defecto */
+}
