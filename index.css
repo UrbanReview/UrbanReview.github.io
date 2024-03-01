@@ -3,7 +3,6 @@
     --gold: #c8ad78;
 }
 
-/*general styling*/
 * {
     box-sizing: border-box;
 }
@@ -101,10 +100,8 @@
 }
 
 .instagram-icon {
-    width: 32px;
-    /* Cambia el ancho del icono del footer */
-    height: 32px;
-    /* Cambia la altura del icono del footer */
+    width: 32px; /* Cambia el ancho del icono del footer */
+    height: 32px; /* Cambia la altura del icono del footer */
 }
 
 .EP {
@@ -118,5 +115,8 @@
 .ESE {
     text-decoration: none; /* Elimina el subrayado */
       color: inherit; /* Utiliza el color del texto heredado */
-      /* cursor: auto;*//*Cambia el cursor a su valor por defecto */
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: inherit; /* Cambia esto al color que desees */
 }
