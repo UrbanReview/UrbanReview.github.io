@@ -56,4 +56,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     createCards('cardContainerJordan8', 'jordan8.json');
 
+    // LLamar a la funcion para las tarjetas de Adidas
+    createCards('cardContainerYeezy', 'yeezy.json');
+
 });
