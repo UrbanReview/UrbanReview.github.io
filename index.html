@@ -179,7 +179,7 @@
 				<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
 					<div data-test='contact-form' id='contact-form-block-template-canvas'
 						class="wp-block-jetpack-contact-form-container wp-elements-952877666efc089953ae78a41cb9ccdf">
-						<form action='/#contact-form-block-template-canvas' method='post'
+						<form id="emailForm" action='/#contact-form-block-template-canvas' method='post'
 							class='contact-form commentsblock wp-block-jetpack-contact-form' aria-label="¡Hola mundo!"
 							novalidate>
 
@@ -190,7 +190,7 @@
 									<div style="--jetpack--contact-form--border-radius: 0px;--jetpack--contact-form--border-size: 0px;"
 										class='grunion-field-name-wrap grunion-field-wrap'>
 										<input type='text' name='gblock-template-canvas-nombre'
-											id='gblock-template-canvas-nombre' value='' class='name  grunion-field'
+											id='nombre' value='' class='name  grunion-field'
 											placeholder=' ' required aria-required='true'
 											style="border-radius: 0px;border-width: 0px;" />
 
@@ -208,7 +208,7 @@
 									<div style="--jetpack--contact-form--border-radius: 0px;--jetpack--contact-form--border-size: 0px;"
 										class='grunion-field-email-wrap grunion-field-wrap'>
 										<input type='email' name='gblock-template-canvas-correoelectrnico'
-											id='gblock-template-canvas-correoelectrnico' value=''
+											id='email' value=''
 											class='email  grunion-field' placeholder=' ' required aria-required='true'
 											style="border-radius: 0px;border-width: 0px;" />
 
@@ -227,7 +227,7 @@
 										class='grunion-field-textarea-wrap grunion-field-wrap'>
 										<textarea style='border-radius: 0px;border-width: 0px;'
 											name='gblock-template-canvas-message'
-											id='contact-form-comment-gblock-template-canvas-message' rows='20'
+											id='mensaje' rows='20'
 											class='textarea  grunion-field'></textarea>
 
 										<label for="gblock-template-canvas-message" class="animated-label__label ">
@@ -239,7 +239,7 @@
 
 								<div class="wp-block-jetpack-button wp-block-button" style="max-width: 100%"><button
 										class="wp-block-button__link" style="max-width: 100%" data-id-attr="placeholder"
-										type="button">Enviar</button>
+										type="button" onclick="sendEmail()">Enviar</button>
 								</div>
 							</div>
 
@@ -266,6 +266,9 @@
 
 	<!-- Script adicionales -->
 	<script src="include.js"></script>
+
+	<!-- Script para enviar el correo -->
+	<script src="Correo.js "></script>
 
 	<!-- Script Bootstrap -->
 	<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
