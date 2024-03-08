@@ -136,3 +136,89 @@
 .Espacio {
     margin-top: 50px;
 }
+
+.Letras-Titulo-Cartas {
+    font-weight: bold; 
+    font-size: xx-large;
+    color: white; /* Color del texto */
+    text-shadow: -1px -1px 0 #000,  
+                  1px -1px 0 #000,
+                 -1px  1px 0 #000,
+                  1px  1px 0 #000; /* Contorno negro */
+}
+
+.TamañoCard {
+    width: 18rem;
+}
+
+.C1 {
+    height: 300px; 
+    background-image: url('Imagenes/zapatillas.jpg'); 
+    background-size: cover; 
+    background-position: center;
+}
+.C2 {
+    height: 300px; 
+    background-image: url('Imagenes/chaqueta.jpg'); 
+    background-size: cover; 
+    background-position: center;
+}
+.C3 {
+    height: 300px; 
+    background-image: url('Imagenes/ropa.jpg'); 
+    background-size: cover; 
+    background-position: center;
+}
+.C4 {
+    height: 300px; 
+    background-image: url('Imagenes/accesorios.jpg'); 
+    background-size: cover; 
+    background-position: center;
+}
+
+@media (min-width: 576px) {
+    .carta-columna {
+        flex: 0 0 calc(50% - 10px); /* Esto establece que cada columna ocupe el 50% del ancho con un espacio de 10px entre ellas */
+        margin-bottom: 20px; /* Agrega un margen inferior para separar las cartas */
+    }
+}
+
+@media (min-width: 992px) {
+    .carta-columna {
+        flex: 0 0 calc(25% - 10px); /* Esto establece que cada columna ocupe el 25% del ancho con un espacio de 10px entre ellas */
+    }
+}
+
+@media (max-width: 425px) {
+    .carta-columna {
+        flex: 0 0 calc(100% - 20px); /* Esto establece que cada columna ocupe el 100% del ancho con un espacio de 20px a los lados */
+        margin-bottom: 20px; /* Agrega un margen inferior para separar las cartas */
+        margin-top: 20px; /* Agrega un margen superior para separar las cartas */
+    }
+}
+
+@media (min-width: 425px) {
+    .row.justify-content-center {
+        margin-left: -10px; 
+        margin-right: -10px;
+    }
+
+    .carta-columna {
+        flex: 0 0 calc(50% - 20px);
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+}
+
+@media (min-width: 426px) {
+    .row.justify-content-center {
+        margin-left: -10px; /* Ajusta el margen izquierdo para centrar las cartas */
+        margin-right: -10px; /* Ajusta el margen derecho para centrar las cartas */
+    }
+
+    .carta-columna {
+        flex: 0 0 calc(25% - 20px); /* Esto establece que cada columna ocupe el 25% del ancho con un espacio de 20px entre ellas */
+        margin-bottom: 20px; /* Agrega un margen inferior para separar las cartas */
+        margin-top: 20px; /* Agrega un margen superior para separar las cartas */
+    }
+}
