@@ -109,7 +109,7 @@
 }
 
 .E {
-    height: 85px;
+    height: 75px;
 }
 
 .ESE {
@@ -221,4 +221,10 @@
         margin-bottom: 20px; /* Agrega un margen inferior para separar las cartas */
         margin-top: 20px; /* Agrega un margen superior para separar las cartas */
     }
+}
+
+.nav-link {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
