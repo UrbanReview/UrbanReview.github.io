@@ -41,22 +41,22 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     // Llamar a la función para las tarjetas de Nike
-    createCards('cardContainerNike', 'nike.json');
+    createCards('cardContainerNike', 'zapatillasjson/nike.json');
 
     // Llamar a la función para las tarjetas de Jordan
-    createCards('cardContainerJordan1', 'jordan1.json');
+    createCards('cardContainerJordan1', 'zapatillasjson/jordan1.json');
 
-    createCards('cardContainerJordan3', 'jordan3.json');
+    createCards('cardContainerJordan3', 'zapatillasjson/jordan3.json');
 
-    createCards('cardContainerJordan4', 'jordan4.json');
+    createCards('cardContainerJordan4', 'zapatillasjson/jordan4.json');
 
-    createCards('cardContainerJordan5', 'jordan5.json');
+    createCards('cardContainerJordan5', 'zapatillasjson/jordan5.json');
 
-    createCards('cardContainerJordan6', 'jordan6.json');
+    createCards('cardContainerJordan6', 'zapatillasjson/jordan6.json');
 
-    createCards('cardContainerJordan8', 'jordan8.json');
+    createCards('cardContainerJordan8', 'zapatillasjson/jordan8.json');
 
     // LLamar a la funcion para las tarjetas de Adidas
-    createCards('cardContainerYeezy', 'yeezy.json');
+    createCards('cardContainerYeezy', 'zapatillasjson/yeezy.json');
 
 });
