@@ -59,4 +59,8 @@ document.addEventListener("DOMContentLoaded", function () {
     // LLamar a la funcion para las tarjetas de Adidas
     createCards('cardContainerYeezy', 'zapatillasjson/yeezy.json');
 
+    // LLamar a la funcion para las tarjetas de Modelos de Lujo
+    // Balmain
+    createCards('cardContainerBalmain', 'zapatillasjson/balmain.json');
+
 });
