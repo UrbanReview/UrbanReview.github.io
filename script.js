@@ -10,15 +10,10 @@ document.addEventListener("DOMContentLoaded", function () {
                     const card = document.createElement('div');
                     card.classList.add('DC');
 
-                    // Establecer imagen de fondo
-                    card.style.backgroundImage = `url(${cardData.imagenURL})`;
-                    card.style.backgroundSize = 'contain';
-                    card.style.backgroundRepeat = 'no-repeat';
-
                     // Crear HTML interno
                     card.innerHTML = `
                         <a href="${cardData.url}">
-                            <div class="IM" id="IM1"></div>
+                            <div class="IM" id="IM1" style="background-image: url(${cardData.imagenURL}); background-size: cover; background-repeat: no-repeat; background-position: center;"></div>
                             <div class="I">
                                 <h4>${cardData.nombre}</h4>
                             </div>
