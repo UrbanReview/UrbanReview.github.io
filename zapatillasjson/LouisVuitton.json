@@ -194,5 +194,54 @@
         "precio": "***€",
         "imagenURL": "Productos/LouisVuitton/28.jpg",
         "url":"#"
+    },
+    {
+        "nombre": "Louis Vuitton Brown",
+        "talla": "38-44",
+        "precio": "***€",
+        "imagenURL": "Productos/LouisVuitton/29.jpg",
+        "url":"#"
+    },
+    {
+        "nombre": "Louis Vuitton White",
+        "talla": "38-44",
+        "precio": "***€",
+        "imagenURL": "Productos/LouisVuitton/30.jpg",
+        "url":"#"
+    },
+    {
+        "nombre": "Louis Vuitton Black",
+        "talla": "38-44",
+        "precio": "***€",
+        "imagenURL": "Productos/LouisVuitton/31.jpg",
+        "url":"#"
+    },
+    {
+        "nombre": "Louis Vuitton 2023 Blue",
+        "talla": "38-44",
+        "precio": "***€",
+        "imagenURL": "Productos/LouisVuitton/32.jpg",
+        "url":"#"
+    },
+    {
+        "nombre": "Louis Vuitton 2023 Black",
+        "talla": "38-44",
+        "precio": "***€",
+        "imagenURL": "Productos/LouisVuitton/33.jpg",
+        "url":"#"
+    },
+    {
+        "nombre": "Louis Vuitton 2023 Red",
+        "talla": "38-44",
+        "precio": "***€",
+        "imagenURL": "Productos/LouisVuitton/34.jpg",
+        "url":"#"
+    },
+    {
+        "nombre": "Louis Vuitton 2023 While",
+        "talla": "38-44",
+        "precio": "***€",
+        "imagenURL": "Productos/LouisVuitton/35.jpg",
+        "url":"#"
     }
 ]
