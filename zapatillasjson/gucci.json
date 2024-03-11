@@ -33,5 +33,40 @@
         "precio": "***€",
         "imagenURL": "Productos/gucci/5.jpg",
         "url":"#"
+    },
+    {
+        "nombre": "Gucci Black",
+        "talla": "38-44",
+        "precio": "***€",
+        "imagenURL": "Productos/gucci/6.jpg",
+        "url":"#"
+    },
+    {
+        "nombre": "Gucci Green",
+        "talla": "38-44",
+        "precio": "***€",
+        "imagenURL": "Productos/gucci/7.jpg",
+        "url":"#"
+    },
+    {
+        "nombre": "Gucci While",
+        "talla": "38-44",
+        "precio": "***€",
+        "imagenURL": "Productos/gucci/8.jpg",
+        "url":"#"
+    },
+    {
+        "nombre": "Gucci Blue",
+        "talla": "38-44",
+        "precio": "***€",
+        "imagenURL": "Productos/gucci/9.jpg",
+        "url":"#"
+    },
+    {
+        "nombre": "Gucci Orange",
+        "talla": "38-44",
+        "precio": "***€",
+        "imagenURL": "Productos/gucci/10.jpg",
+        "url":"#"
     }
 ]
