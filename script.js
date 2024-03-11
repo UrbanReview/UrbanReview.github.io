@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     card.innerHTML = `
                         <a href="${cardData.url}">
                             <div class="IM" id="IM1" style="background-image: url(${cardData.imagenURL}); background-size: cover; background-repeat: no-repeat; background-position: center;"></div>
-                            <div class="I">
+                            <div class="I mt-3">
                                 <h4>${cardData.nombre}</h4>
                             </div>
                             <div class="I">
@@ -54,8 +54,16 @@ document.addEventListener("DOMContentLoaded", function () {
     // LLamar a la funcion para las tarjetas de Adidas
     createCards('cardContainerYeezy', 'zapatillasjson/yeezy.json');
 
+
     // LLamar a la funcion para las tarjetas de Modelos de Lujo
+
     // Balmain
     createCards('cardContainerBalmain', 'zapatillasjson/balmain.json');
+
+    // Gucci
+    createCards('cardContainerGucci', 'zapatillasjson/gucci.json');
+
+    // Luis Vuitton
+    createCards('cardContainerLuisVuitton', 'zapatillasjson/LuisVuitton.json');
 
 });

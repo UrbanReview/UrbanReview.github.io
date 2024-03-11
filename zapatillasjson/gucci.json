@@ -1,0 +1,37 @@
+[
+    {
+        "nombre": "MATCHESFASHION US",
+        "talla": "38-45",
+        "precio": "***€",
+        "imagenURL": "Productos/gucci/1.jpg",
+        "url":"#"
+    },
+    {
+        "nombre": "Shoes Designer Business Elegant",
+        "talla": "38-45",
+        "precio": "***€",
+        "imagenURL": "Productos/gucci/2.jpg",
+        "url":"#"
+    },
+    {
+        "nombre": "Shoes Designer Business Elegant",
+        "talla": "38-45",
+        "precio": "***€",
+        "imagenURL": "Productos/gucci/3.jpg",
+        "url":"#"
+    },
+    {
+        "nombre": "Shoes Designer Business Elegant",
+        "talla": "38-45",
+        "precio": "***€",
+        "imagenURL": "Productos/gucci/4.jpg",
+        "url":"#"
+    },
+    {
+        "nombre": "Shoes Designer Business Elegant White",
+        "talla": "38-45",
+        "precio": "***€",
+        "imagenURL": "Productos/gucci/5.jpg",
+        "url":"#"
+    }
+]
