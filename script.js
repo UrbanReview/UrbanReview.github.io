@@ -64,6 +64,9 @@ document.addEventListener("DOMContentLoaded", function () {
     createCards('cardContainerGucci', 'zapatillasjson/gucci.json');
 
     // Luis Vuitton
-    createCards('cardContainerLuisVuitton', 'zapatillasjson/LuisVuitton.json');
+    createCards('cardContainerLouisVuitton', 'zapatillasjson/LouisVuitton.json');
+
+    // Prada
+    createCards('cardContainerPrada', 'zapatillasjson/Prada.json');
 
 });

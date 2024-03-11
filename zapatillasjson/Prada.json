@@ -1,0 +1,44 @@
+[
+    {
+        "nombre": "Prada America's Cup",
+        "talla": "38-44",
+        "precio": "***€",
+        "imagenURL": "Productos/Prada/1.jpg",
+        "url":"#"
+    },
+    {
+        "nombre": "Prada America's Cup",
+        "talla": "38-44",
+        "precio": "***€",
+        "imagenURL": "Productos/Prada/2.jpg",
+        "url":"#"
+    },
+    {
+        "nombre": "Prada America's Cup Black",
+        "talla": "38-44",
+        "precio": "***€",
+        "imagenURL": "Productos/Prada/3.jpg",
+        "url":"#"
+    },
+    {
+        "nombre": "PRADA Young Triangle Standard Couple Black",
+        "talla": "38-44",
+        "precio": "***€",
+        "imagenURL": "Productos/Prada/4.jpg",
+        "url":"#"
+    },
+    {
+        "nombre": "PRADA Young Triangle Standard Couple White",
+        "talla": "38-44",
+        "precio": "***€",
+        "imagenURL": "Productos/Prada/5.jpg",
+        "url":"#"
+    },
+    {
+        "nombre": "PRADA Young Triangle Standard Couple",
+        "talla": "38-44",
+        "precio": "***€",
+        "imagenURL": "Productos/Prada/6.jpg",
+        "url":"#"
+    }
+]
