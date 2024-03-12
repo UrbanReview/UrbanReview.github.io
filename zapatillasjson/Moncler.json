@@ -1,0 +1,37 @@
+[
+    {
+        "nombre": "Moncler Trailgrip Lite Black",
+        "talla": "39-44",
+        "precio": "***€",
+        "imagenURL": "Productos/Moncler/1.jpg",
+        "url":"#"
+    },
+    {
+        "nombre": "Moncler Trailgrip Lite Brown",
+        "talla": "39-44",
+        "precio": "***€",
+        "imagenURL": "Productos/Moncler/2.jpg",
+        "url":"#"
+    },
+    {
+        "nombre": "Moncler Trailgrip Lite Black and White",
+        "talla": "39-44",
+        "precio": "***€",
+        "imagenURL": "Productos/Moncler/3.jpg",
+        "url":"#"
+    },
+    {
+        "nombre": "Moncler Trailgrip Lite White",
+        "talla": "39-44",
+        "precio": "***€",
+        "imagenURL": "Productos/Moncler/4.jpg",
+        "url":"#"
+    },
+    {
+        "nombre": "Moncler Trailgrip Lite",
+        "talla": "39-44",
+        "precio": "***€",
+        "imagenURL": "Productos/Moncler/5.jpg",
+        "url":"#"
+    }
+]

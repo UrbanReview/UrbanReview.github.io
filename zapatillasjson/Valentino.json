@@ -1,0 +1,79 @@
+[
+    {
+        "nombre": "VALENTINO GARAVANI Black and White",
+        "talla": "38-44",
+        "precio": "***€",
+        "imagenURL": "Productos/Valentino/1.jpg",
+        "url": "#"
+    },
+    {
+        "nombre": "VALENTINO GARAVANI White and Grey",
+        "talla": "38-44",
+        "precio": "***€",
+        "imagenURL": "Productos/Valentino/2.jpg",
+        "url": "#"
+    },
+    {
+        "nombre": "VALENTINO GARAVANI Black",
+        "talla": "38-44",
+        "precio": "***€",
+        "imagenURL": "Productos/Valentino/3.jpg",
+        "url": "#"
+    },
+    {
+        "nombre": "VALENTINO GARAVANI White",
+        "talla": "38-44",
+        "precio": "***€",
+        "imagenURL": "Productos/Valentino/4.jpg",
+        "url": "#"
+    },
+    {
+        "nombre": "VALENTINO GARAVANI Black and White",
+        "talla": "39-44",
+        "precio": "***€",
+        "imagenURL": "Productos/Valentino/5.jpg",
+        "url": "#"
+    },
+    {
+        "nombre": "VALENTINO White",
+        "talla": "39-44",
+        "precio": "***€",
+        "imagenURL": "Productos/Valentino/6.jpg",
+        "url": "#"
+    },
+    {
+        "nombre": "VALENTINO Blue",
+        "talla": "39-44",
+        "precio": "***€",
+        "imagenURL": "Productos/Valentino/7.jpg",
+        "url": "#"
+    },
+    {
+        "nombre": "VALENTINO White and Black",
+        "talla": "39-44",
+        "precio": "***€",
+        "imagenURL": "Productos/Valentino/8.jpg",
+        "url": "#"
+    },
+    {
+        "nombre": "VALENTINO Black and White",
+        "talla": "39-44",
+        "precio": "***€",
+        "imagenURL": "Productos/Valentino/9.jpg",
+        "url": "#"
+    },
+    {
+        "nombre": "VALENTINO",
+        "talla": "39-44",
+        "precio": "***€",
+        "imagenURL": "Productos/Valentino/10.jpg",
+        "url": "#"
+    },
+    {
+        "nombre": "VALENTINO GARAVANI Sneakers",
+        "talla": "39-44",
+        "precio": "***€",
+        "imagenURL": "Productos/Valentino/11.jpg",
+        "url": "#"
+    }
+]

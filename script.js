@@ -69,4 +69,10 @@ document.addEventListener("DOMContentLoaded", function () {
     // Prada
     createCards('cardContainerPrada', 'zapatillasjson/Prada.json');
 
+    // Moncler
+    createCards('cardContainerMoncler', 'zapatillasjson/Moncler.json');
+
+    // Valentino
+    createCards('cardContainerValentino', 'zapatillasjson/Valentino.json');
+
 });
