@@ -68,5 +68,26 @@
         "precio": "***€",
         "imagenURL": "Productos/gucci/10.jpg",
         "url":"#"
+    },
+    {
+        "nombre": "Gucci Ace Black",
+        "talla": "38-44",
+        "precio": "***€",
+        "imagenURL": "Productos/gucci/11.jpg",
+        "url":"#"
+    },
+    {
+        "nombre": "Gucci Sneakers",
+        "talla": "38-44",
+        "precio": "***€",
+        "imagenURL": "Productos/gucci/12.jpg",
+        "url":"#"
+    },
+    {
+        "nombre": "Gucci Sneakers White",
+        "talla": "38-44",
+        "precio": "***€",
+        "imagenURL": "Productos/gucci/13.jpg",
+        "url":"#"
     }
 ]
