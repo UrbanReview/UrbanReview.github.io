@@ -67,5 +67,7 @@ document.addEventListener("DOMContentLoaded", function () {
     createCards('cardContainerMoncler', 'zapatillasjson/Moncler.json');
     // Valentino
     createCards('cardContainerValentino', 'zapatillasjson/Valentino.json');
+    // dolce & gabbana 
+    createCards('cardContainerDolceGabbana', 'zapatillasjson/dolcegabbana.json');
 
 });
