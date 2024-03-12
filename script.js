@@ -54,24 +54,17 @@ document.addEventListener("DOMContentLoaded", function () {
     // LLamar a la funcion para las tarjetas de Adidas
     createCards('cardContainerYeezy', 'zapatillasjson/yeezy.json');
 
-
     // LLamar a la funcion para las tarjetas de Modelos de Lujo
-
     // Balmain
     createCards('cardContainerBalmain', 'zapatillasjson/balmain.json');
-
     // Gucci
     createCards('cardContainerGucci', 'zapatillasjson/gucci.json');
-
     // Luis Vuitton
     createCards('cardContainerLouisVuitton', 'zapatillasjson/LouisVuitton.json');
-
     // Prada
     createCards('cardContainerPrada', 'zapatillasjson/Prada.json');
-
     // Moncler
     createCards('cardContainerMoncler', 'zapatillasjson/Moncler.json');
-
     // Valentino
     createCards('cardContainerValentino', 'zapatillasjson/Valentino.json');
 
